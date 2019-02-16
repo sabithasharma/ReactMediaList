@@ -1,0 +1,1946 @@
+[
+    {
+        "id": "d585f075-00090006-58178431",
+        "created": "2017-08-21T05:02:17+00:00",
+        "updated": "2018-07-02T14:44:25+00:00",
+        "asset": {
+            "id": "d585f075-00090006",
+            "created": "2017-08-21T05:02:17+00:00",
+            "updated": "2018-05-08T12:56:53+00:00",
+            "createdBy": {
+                "id": "sagauser"
+            },
+            "updatedBy": {
+                "id": "sagauser"
+            },
+            "name": "MOnday3",
+            "resources": [
+                {
+                    "type": "livevideo",
+                    "id": "1503291738015",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "livevideo",
+                            "videos": [
+                                {
+                                    "bitrate": 2372000,
+                                    "codec": "H.264",
+                                    "width": 1280,
+                                    "height": 720
+                                }
+                            ],
+                            "id": "1",
+                            "links": [
+                                {
+                                    "href": "http://25ae55b04d75ef9def5d793ba2436f14.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/Monday3-stream_720p",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "index",
+                    "id": "1503291738091",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "index",
+                            "references": [
+                                {
+                                    "order": 1,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1503291738015"
+                                        },
+                                        "rendition": {
+                                            "id": "1"
+                                        }
+                                    }
+                                }
+                            ],
+                            "id": "1",
+                            "size": 549,
+                            "links": [
+                                {
+                                    "href": "http://b0f4c4e28552f2d85d7a66cb3b309703.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/Monday3-stream_720p.smil",
+                                    "mimeType": "application/smil+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:Monday3-stream_720p/playlist.m3u8",
+                                    "mimeType": "application/x-mpegURL"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:Monday3-stream_720p/manifest.f4m",
+                                    "mimeType": "application/hds+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:Monday3-stream_720p/manifest.mpd",
+                                    "mimeType": "application/dash+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:Monday3-stream_720p/Manifest",
+                                    "mimeType": "application/vnd.ms-sstr+xml"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "title": "MOnday3",
+            "description": ""
+        },
+        "catalog": {
+            "id": "354f86bc-b690-47a0-87db-05696d37a84f"
+        }
+    },
+    {
+        "id": "e4a99fbd-00090006-522e1d0e",
+        "created": "2017-08-21T04:55:21+00:00",
+        "updated": "2018-11-08T08:37:54+00:00",
+        "asset": {
+            "id": "e4a99fbd-00090006",
+            "created": "2017-08-21T04:55:21+00:00",
+            "updated": "2018-11-08T08:37:54+00:00",
+            "createdBy": {
+                "id": "sagauser"
+            },
+            "updatedBy": {
+                "id": "sagauser"
+            },
+            "name": "MOnday2",
+            "resources": [
+                {
+                    "type": "livevideo",
+                    "id": "1503291322026",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "livevideo",
+                            "videos": [
+                                {
+                                    "bitrate": 2372000,
+                                    "codec": "H.264",
+                                    "width": 1280,
+                                    "height": 720
+                                }
+                            ],
+                            "id": "1",
+                            "links": [
+                                {
+                                    "href": "http://d9633bdecd5b30a92db99dc0e0560a48.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/Monday2-stream_720p",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "index",
+                    "id": "1503291322077",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "index",
+                            "references": [
+                                {
+                                    "order": 1,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1503291322026"
+                                        },
+                                        "rendition": {
+                                            "id": "1"
+                                        }
+                                    }
+                                }
+                            ],
+                            "id": "1",
+                            "size": 549,
+                            "links": [
+                                {
+                                    "href": "http://c1268e587f2640c1494338fba5ea1e8e.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/Monday2-stream_720p.smil",
+                                    "mimeType": "application/smil+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:Monday2-stream_720p/playlist.m3u8",
+                                    "mimeType": "application/x-mpegURL"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:Monday2-stream_720p/manifest.f4m",
+                                    "mimeType": "application/hds+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:Monday2-stream_720p/manifest.mpd",
+                                    "mimeType": "application/dash+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:Monday2-stream_720p/Manifest",
+                                    "mimeType": "application/vnd.ms-sstr+xml"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "title": "MOnday2 2",
+            "description": ""
+        },
+        "catalog": {
+            "id": "98352f4f-371a-4209-a35b-27da1d300eee"
+        }
+    },
+    {
+        "id": "87aaf861-00090006-f1c97ab9",
+        "created": "2017-08-21T04:54:59+00:00",
+        "updated": "2017-08-21T04:54:59+00:00",
+        "catalog": {
+            "id": "98352f4f-371a-4209-a35b-27da1d300eee"
+        }
+    },
+    {
+        "id": "59614fcc-00090006-dcb8e296",
+        "created": "2017-08-17T04:20:54+00:00",
+        "updated": "2017-08-17T04:20:54+00:00",
+        "asset": {
+            "id": "59614fcc-00090006",
+            "created": "2017-08-17T04:20:54+00:00",
+            "updated": "2017-08-17T04:20:54+00:00",
+            "name": "ABCDEF",
+            "resources": [
+                {
+                    "type": "index",
+                    "id": "1502943655114",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "index",
+                            "references": [
+                                {
+                                    "order": 1,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502943655069"
+                                        },
+                                        "rendition": {
+                                            "id": "1"
+                                        }
+                                    }
+                                }
+                            ],
+                            "id": "1",
+                            "size": 545,
+                            "links": [
+                                {
+                                    "href": "http://1b898705e50216e3bcec52deaf38c25c.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/ABCDEF-stream_720p.smil",
+                                    "mimeType": "application/smil+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:ABCDEF-stream_720p/playlist.m3u8",
+                                    "mimeType": "application/x-mpegURL"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:ABCDEF-stream_720p/manifest.f4m",
+                                    "mimeType": "application/hds+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:ABCDEF-stream_720p/manifest.mpd",
+                                    "mimeType": "application/dash+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:ABCDEF-stream_720p/Manifest",
+                                    "mimeType": "application/vnd.ms-sstr+xml"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "livevideo",
+                    "id": "1502943655069",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "livevideo",
+                            "videos": [
+                                {
+                                    "bitrate": 2372000,
+                                    "codec": "H.264",
+                                    "width": 1280,
+                                    "height": 720
+                                }
+                            ],
+                            "id": "1",
+                            "links": [
+                                {
+                                    "href": "http://cd8d64b26f25599c462a0561549dc5ee.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/ABCDEF-stream_720p",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "id": "59614fcc-00090006-dcb8e296",
+                    "type": "Media"
+                }
+            ]
+        },
+        "metadata": {
+            "title": "ABCDEF"
+        },
+        "catalog": {
+            "id": "98352f4f-371a-4209-a35b-27da1d300eee"
+        }
+    },
+    {
+        "id": "209f5c0e-00090006-b54acaae",
+        "created": "2017-08-17T04:17:07+00:00",
+        "updated": "2017-08-17T04:17:07+00:00",
+        "asset": {
+            "id": "209f5c0e-00090006",
+            "created": "2017-08-17T04:17:07+00:00",
+            "updated": "2017-08-17T04:17:07+00:00",
+            "name": "BosseProvar",
+            "resources": [
+                {
+                    "type": "livevideo",
+                    "id": "1502943427380",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "livevideo",
+                            "videos": [
+                                {
+                                    "bitrate": 2372000,
+                                    "codec": "H.264",
+                                    "width": 1280,
+                                    "height": 720
+                                }
+                            ],
+                            "id": "1",
+                            "links": [
+                                {
+                                    "href": "http://d924ff27c028263fb3d624b0669d17e3.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/BosseP-stream_720p",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "index",
+                    "id": "1502943427427",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "index",
+                            "references": [
+                                {
+                                    "order": 1,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502943427380"
+                                        },
+                                        "rendition": {
+                                            "id": "1"
+                                        }
+                                    }
+                                }
+                            ],
+                            "id": "1",
+                            "size": 560,
+                            "links": [
+                                {
+                                    "href": "http://6af4dafdf897b71f3ea5fbec0c7d50e7.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/BosseP-stream_720p.smil",
+                                    "mimeType": "application/smil+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:BosseP-stream_720p/playlist.m3u8",
+                                    "mimeType": "application/x-mpegURL"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:BosseP-stream_720p/manifest.f4m",
+                                    "mimeType": "application/hds+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:BosseP-stream_720p/manifest.mpd",
+                                    "mimeType": "application/dash+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:BosseP-stream_720p/Manifest",
+                                    "mimeType": "application/vnd.ms-sstr+xml"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "id": "209f5c0e-00090006-b54acaae",
+                    "type": "Media"
+                }
+            ]
+        },
+        "metadata": {
+            "title": "BosseProvar"
+        },
+        "catalog": {
+            "id": "98352f4f-371a-4209-a35b-27da1d300eee"
+        }
+    },
+    {
+        "id": "81de9701-00090006-8bd71536",
+        "created": "2017-08-13T07:24:01+00:00",
+        "updated": "2018-11-09T12:56:42+00:00",
+        "asset": {
+            "id": "81de9701-00090006",
+            "created": "2017-08-13T07:24:01+00:00",
+            "updated": "2018-11-09T12:56:42+00:00",
+            "createdBy": {
+                "id": "sagauser"
+            },
+            "updatedBy": {
+                "id": "sagauser"
+            },
+            "name": "BossePåTjörn",
+            "resources": [
+                {
+                    "type": "livevideo",
+                    "id": "1502609041637",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "livevideo",
+                            "videos": [
+                                {
+                                    "bitrate": 2372000,
+                                    "codec": "H.264",
+                                    "width": 1280,
+                                    "height": 720
+                                }
+                            ],
+                            "id": "1",
+                            "links": [
+                                {
+                                    "href": "http://6a0bee2fe7e95d2d8fef46291cda8858.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/TJ%c3%b6rn-stream_720p",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "index",
+                    "id": "1502609041696",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "index",
+                            "references": [
+                                {
+                                    "order": 1,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502609041637"
+                                        },
+                                        "rendition": {
+                                            "id": "1"
+                                        }
+                                    }
+                                }
+                            ],
+                            "id": "1",
+                            "size": 569,
+                            "links": [
+                                {
+                                    "href": "http://168e3b1e66f58b1a7b2865d0ebe06067.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/TJ%c3%b6rn-stream_720p.smil",
+                                    "mimeType": "application/smil+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:TJ%c3%b6rn-stream_720p/playlist.m3u8",
+                                    "mimeType": "application/x-mpegURL"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:TJ%c3%b6rn-stream_720p/manifest.f4m",
+                                    "mimeType": "application/hds+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:TJ%c3%b6rn-stream_720p/manifest.mpd",
+                                    "mimeType": "application/dash+xml"
+                                },
+                                {
+                                    "href": "http://httpcache1.dna.qbrick.com/90006-httpcache2/smil:TJ%c3%b6rn-stream_720p/Manifest",
+                                    "mimeType": "application/vnd.ms-sstr+xml"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "title": "BossePåTjörn 0",
+            "description": ""
+        },
+        "catalog": {
+            "id": "98352f4f-371a-4209-a35b-27da1d300eee"
+        }
+    },
+    {
+        "id": "0c0cef54-00090006-19212a15",
+        "created": "2017-08-10T14:48:28+00:00",
+        "updated": "2019-01-25T12:48:38+00:00",
+        "hits": 29,
+        "tags": [
+            "sport"
+        ],
+        "asset": {
+            "id": "0c0cef54-00090006",
+            "created": "2017-08-10T14:48:28+00:00",
+            "updated": "2018-05-08T12:05:03+00:00",
+            "createdBy": {
+                "id": "sagauser"
+            },
+            "updatedBy": {
+                "id": "UseF4RfNMy340Gt3zQ1mkpO8g"
+            },
+            "name": "0c0cef54-00090006",
+            "resources": [
+                {
+                    "type": "video",
+                    "id": "1502376508716",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 1696000,
+                                    "codec": "H.264",
+                                    "width": 768,
+                                    "height": 432,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "3",
+                            "size": 2778701,
+                            "links": [
+                                {
+                                    "href": "http://0264622ca0a975d31f6330371ad2a108.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_432p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 1096000,
+                                    "codec": "H.264",
+                                    "width": 640,
+                                    "height": 360,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "8",
+                            "size": 1786779,
+                            "links": [
+                                {
+                                    "href": "http://f3d639e07250141810a8239c106842ff.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_360p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 2496000,
+                                    "codec": "H.264",
+                                    "width": 1024,
+                                    "height": 576,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "7",
+                            "size": 4085572,
+                            "links": [
+                                {
+                                    "href": "http://16154721a12e0c794874b172a0b06a80.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_576p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 260000,
+                                    "codec": "H.264",
+                                    "width": 384,
+                                    "height": 216,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "2",
+                            "size": 430203,
+                            "links": [
+                                {
+                                    "href": "http://f1b2027c8e0db704df41bbc09348dc18.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_216p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 100000,
+                                    "codec": "H.264",
+                                    "width": 128,
+                                    "height": 72,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "5",
+                            "size": 163669,
+                            "links": [
+                                {
+                                    "href": "http://96c98a8bad135efd2d0bca9a71e129d6.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_promo.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 164000,
+                                    "codec": "H.264",
+                                    "width": 256,
+                                    "height": 144,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "0",
+                            "size": 273278,
+                            "links": [
+                                {
+                                    "href": "http://f006657b94a8bd8923533e5353bd4f77.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_144p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 496000,
+                                    "codec": "H.264",
+                                    "width": 512,
+                                    "height": 288,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "4",
+                            "size": 816474,
+                            "links": [
+                                {
+                                    "href": "http://285fc0fa7f27d29b4209a794f48bb72a.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_288p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 70000,
+                                    "codec": "H.264",
+                                    "width": 160,
+                                    "height": 90,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "1",
+                            "size": 133928,
+                            "links": [
+                                {
+                                    "href": "http://6a3f5acbc53da88aba24effd7022c688.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_64p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 3628000,
+                                    "codec": "H.264",
+                                    "width": 1280,
+                                    "height": 720,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "6",
+                            "size": 5929987,
+                            "links": [
+                                {
+                                    "href": "http://ec156092e4387937620df2332c1bd334.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_720p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "id": "1502376508862",
+                    "language": "en",
+                    "rel": [
+                        "thumbnail"
+                    ],
+                    "renditions": [
+                        {
+                            "type": "image",
+                            "width": 1280,
+                            "height": 720,
+                            "id": "66f25a25-1103-43c5-9cc5-7d613e63305a",
+                            "size": 120133,
+                            "links": [
+                                {
+                                    "href": "http://c4e4d73cccd014150d44ea53932540bd.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_l_01.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "width": 640,
+                            "height": 360,
+                            "id": "60d3f3fb-8fc2-4a91-9330-bee4322d337d",
+                            "size": 47276,
+                            "links": [
+                                {
+                                    "href": "http://cf1c37410e38f8ef05178de345a14576.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_m_01.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "width": 128,
+                            "height": 72,
+                            "id": "7f092438-65a6-46c0-84d5-45baaf5ea6db",
+                            "size": 4360,
+                            "links": [
+                                {
+                                    "href": "http://4d8f10e79c36db9715568f85b01ea5ee.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2)_s_01.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "index",
+                    "id": "1502376508810",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "index",
+                            "references": [
+                                {
+                                    "order": 1,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376508716"
+                                        },
+                                        "rendition": {
+                                            "id": "4"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 2,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376508716"
+                                        },
+                                        "rendition": {
+                                            "id": "1"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 3,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376508716"
+                                        },
+                                        "rendition": {
+                                            "id": "0"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 4,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376508716"
+                                        },
+                                        "rendition": {
+                                            "id": "2"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 5,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376508716"
+                                        },
+                                        "rendition": {
+                                            "id": "8"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 6,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376508716"
+                                        },
+                                        "rendition": {
+                                            "id": "3"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 7,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376508716"
+                                        },
+                                        "rendition": {
+                                            "id": "7"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 8,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376508716"
+                                        },
+                                        "rendition": {
+                                            "id": "6"
+                                        }
+                                    }
+                                }
+                            ],
+                            "id": "0c0cef54-00090006-a32a8367",
+                            "size": 679,
+                            "links": [
+                                {
+                                    "href": "http://f8d47f7e19aae8d2c87037f3b7792fb8.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/0c0cef54-00090006/video1%20-%20Copy%20(2).smil",
+                                    "mimeType": "application/smil+xml"
+                                },
+                                {
+                                    "href": "http://f8d47f7e19aae8d2c87037f3b7792fb8.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:0c0cef54-00090006/video1%20-%20Copy%20(2)/playlist.m3u8",
+                                    "mimeType": "application/x-mpegURL"
+                                },
+                                {
+                                    "href": "http://f8d47f7e19aae8d2c87037f3b7792fb8.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:0c0cef54-00090006/video1%20-%20Copy%20(2)/manifest.f4m",
+                                    "mimeType": "application/hds+xml"
+                                },
+                                {
+                                    "href": "http://f8d47f7e19aae8d2c87037f3b7792fb8.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:0c0cef54-00090006/video1%20-%20Copy%20(2)/manifest.mpd",
+                                    "mimeType": "application/dash+xml"
+                                },
+                                {
+                                    "href": "http://f8d47f7e19aae8d2c87037f3b7792fb8.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:0c0cef54-00090006/video1%20-%20Copy%20(2)/Manifest",
+                                    "mimeType": "application/vnd.ms-sstr+xml"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "",
+                    "id": "1502376508886"
+                }
+            ]
+        },
+        "metadata": {
+            "title": "video one v1",
+            "description": "description here please .... 123123112 2222"
+        },
+        "custom": {
+            "11": "Helllo",
+            "list": "value2",
+            "list2": "value2"
+        }
+    },
+    {
+        "id": "f5f6033b-00090006-d4c0a6d1",
+        "created": "2017-08-10T14:47:59+00:00",
+        "updated": "2019-01-25T12:48:03+00:00",
+        "hits": 13,
+        "tags": [
+            "sport",
+            "hockey"
+        ],
+        "asset": {
+            "id": "f5f6033b-00090006",
+            "created": "2017-08-10T14:47:59+00:00",
+            "updated": "2018-05-08T12:13:22+00:00",
+            "createdBy": {
+                "id": "sagauser"
+            },
+            "updatedBy": {
+                "id": "UseF4RfNMy340Gt3zQ1mkpO8g"
+            },
+            "name": "f5f6033b-00090006",
+            "resources": [
+                {
+                    "type": "video",
+                    "id": "1502376479232",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 70000,
+                                    "codec": "H.264",
+                                    "width": 160,
+                                    "height": 90,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "2",
+                            "size": 133764,
+                            "links": [
+                                {
+                                    "href": "http://47a8850fec766d4be533cc95b7709a9a.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_64p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 3628000,
+                                    "codec": "H.264",
+                                    "width": 1280,
+                                    "height": 720,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "0",
+                            "size": 5929488,
+                            "links": [
+                                {
+                                    "href": "http://035ce3a6cfcfed7063596c9d15ad9ed7.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_720p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 260000,
+                                    "codec": "H.264",
+                                    "width": 384,
+                                    "height": 216,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "6",
+                            "size": 430203,
+                            "links": [
+                                {
+                                    "href": "http://de2c6b0921db0e185278d43456d3fd75.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_216p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 164000,
+                                    "codec": "H.264",
+                                    "width": 256,
+                                    "height": 144,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "8",
+                            "size": 273278,
+                            "links": [
+                                {
+                                    "href": "http://a789a34ba5daecf405a9b397bf83b8f5.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_144p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 100000,
+                                    "codec": "H.264",
+                                    "width": 128,
+                                    "height": 72,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "1",
+                            "size": 163330,
+                            "links": [
+                                {
+                                    "href": "http://9ecfd9dc69a01a5d2bc3200510ff9665.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_promo.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 1096000,
+                                    "codec": "H.264",
+                                    "width": 640,
+                                    "height": 360,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "5",
+                            "size": 1786779,
+                            "links": [
+                                {
+                                    "href": "http://c64abf9b1cf52fdb05c8c5c6115b09e7.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_360p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 2496000,
+                                    "codec": "H.264",
+                                    "width": 1024,
+                                    "height": 576,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "3",
+                            "size": 4085572,
+                            "links": [
+                                {
+                                    "href": "http://0c2a446377befad828843620d49b89c1.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_576p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 1696000,
+                                    "codec": "H.264",
+                                    "width": 768,
+                                    "height": 432,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "7",
+                            "size": 2778284,
+                            "links": [
+                                {
+                                    "href": "http://75f8bcfd6c6316165f9f7d6c3b8257ad.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_432p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 496000,
+                                    "codec": "H.264",
+                                    "width": 512,
+                                    "height": 288,
+                                    "duration": 12.77,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "4",
+                            "size": 816474,
+                            "links": [
+                                {
+                                    "href": "http://54541f896a49fc42f97a55d6cca72b28.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_288p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "index",
+                    "id": "1502376479312",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "index",
+                            "references": [
+                                {
+                                    "order": 1,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376479232"
+                                        },
+                                        "rendition": {
+                                            "id": "4"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 2,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376479232"
+                                        },
+                                        "rendition": {
+                                            "id": "2"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 3,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376479232"
+                                        },
+                                        "rendition": {
+                                            "id": "8"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 4,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376479232"
+                                        },
+                                        "rendition": {
+                                            "id": "6"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 5,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376479232"
+                                        },
+                                        "rendition": {
+                                            "id": "5"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 6,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376479232"
+                                        },
+                                        "rendition": {
+                                            "id": "7"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 7,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376479232"
+                                        },
+                                        "rendition": {
+                                            "id": "3"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 8,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502376479232"
+                                        },
+                                        "rendition": {
+                                            "id": "0"
+                                        }
+                                    }
+                                }
+                            ],
+                            "id": "f5f6033b-00090006-ab794c4c",
+                            "size": 791,
+                            "links": [
+                                {
+                                    "href": "http://dfdbc88ecca64b4b6481d1aced9a3ae8.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video.smil",
+                                    "mimeType": "application/smil+xml"
+                                },
+                                {
+                                    "href": "http://dfdbc88ecca64b4b6481d1aced9a3ae8.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:f5f6033b-00090006/another%20but%20the%20same%20test%20video/playlist.m3u8",
+                                    "mimeType": "application/x-mpegURL"
+                                },
+                                {
+                                    "href": "http://dfdbc88ecca64b4b6481d1aced9a3ae8.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:f5f6033b-00090006/another%20but%20the%20same%20test%20video/manifest.f4m",
+                                    "mimeType": "application/hds+xml"
+                                },
+                                {
+                                    "href": "http://dfdbc88ecca64b4b6481d1aced9a3ae8.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:f5f6033b-00090006/another%20but%20the%20same%20test%20video/manifest.mpd",
+                                    "mimeType": "application/dash+xml"
+                                },
+                                {
+                                    "href": "http://dfdbc88ecca64b4b6481d1aced9a3ae8.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:f5f6033b-00090006/another%20but%20the%20same%20test%20video/Manifest",
+                                    "mimeType": "application/vnd.ms-sstr+xml"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "id": "1502376479396",
+                    "language": "en",
+                    "rel": [
+                        "thumbnail"
+                    ],
+                    "renditions": [
+                        {
+                            "type": "image",
+                            "width": 1280,
+                            "height": 720,
+                            "id": "f40723a0-e871-4bd2-ae3c-4c12ccee8291",
+                            "size": 135917,
+                            "links": [
+                                {
+                                    "href": "http://35e0b87c013d55fd22a5dc4951c07b1f.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_l_02.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "width": 640,
+                            "height": 360,
+                            "id": "1a7adf30-cead-4e7d-8e35-36507026cc66",
+                            "size": 54047,
+                            "links": [
+                                {
+                                    "href": "http://695a5ee40947a43bb7c7a025b5338bc1.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_m_02.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "width": 128,
+                            "height": 72,
+                            "id": "f84ed9c1-a045-42b6-b34b-2126c28326f9",
+                            "size": 4642,
+                            "links": [
+                                {
+                                    "href": "http://0114a58b7cb302d77c8c35446c3d6e02.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/f5f6033b-00090006/another%20but%20the%20same%20test%20video_s_02.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "id": "1502376479375"
+                }
+            ]
+        },
+        "metadata": {
+            "title": "another but the same test video.mp4 v2",
+            "description": "hellllsdopfoispdfipsidpfi yyyy"
+        }
+    },
+    {
+        "id": "cd7ab806-00090006-8d482b7f",
+        "created": "2017-08-10T14:39:57+00:00",
+        "updated": "2019-02-04T12:48:44+00:00",
+        "hits": 39,
+        "tags": [
+            "movie",
+            "video",
+            "songs",
+            "music"
+        ],
+        "asset": {
+            "id": "cd7ab806-00090006",
+            "created": "2017-08-10T14:39:58+00:00",
+            "updated": "2018-05-08T12:36:48+00:00",
+            "createdBy": {
+                "id": "sagauser"
+            },
+            "updatedBy": {
+                "id": "UseS74wEs7TEUWEcdKTdDo0vA"
+            },
+            "name": "cd7ab806-00090006",
+            "resources": [
+                {
+                    "type": "video",
+                    "id": "1502375998105",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 100000,
+                                    "codec": "H.264",
+                                    "width": 128,
+                                    "height": 72,
+                                    "duration": 27.0,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "7",
+                            "size": 191517,
+                            "links": [
+                                {
+                                    "href": "http://a078a1942c7167a3d6366510cf3dcc8b.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_promo.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 2496000,
+                                    "codec": "H.264",
+                                    "width": 1024,
+                                    "height": 576,
+                                    "duration": 27.0,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "4",
+                            "size": 8552907,
+                            "links": [
+                                {
+                                    "href": "http://61ee4524d581a108f6a4e1ff37ea8ebf.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_576p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 164000,
+                                    "codec": "H.264",
+                                    "width": 256,
+                                    "height": 144,
+                                    "duration": 27.0,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "5",
+                            "size": 565898,
+                            "links": [
+                                {
+                                    "href": "http://acbf08bb026867665218a1f29403422f.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_144p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 260000,
+                                    "codec": "H.264",
+                                    "width": 384,
+                                    "height": 216,
+                                    "duration": 27.0,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "3",
+                            "size": 889970,
+                            "links": [
+                                {
+                                    "href": "http://3d94aa4a5779b962181c60bb7a76e20a.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_216p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 70000,
+                                    "codec": "H.264",
+                                    "width": 160,
+                                    "height": 90,
+                                    "duration": 27.0,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "2",
+                            "size": 250035,
+                            "links": [
+                                {
+                                    "href": "http://64843a1544d63673d29e70a36abece79.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_64p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 496000,
+                                    "codec": "H.264",
+                                    "width": 512,
+                                    "height": 288,
+                                    "duration": 27.0,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "6",
+                            "size": 1703267,
+                            "links": [
+                                {
+                                    "href": "http://67503f3278c4e50ee560726d1c8e9093.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_288p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 1096000,
+                                    "codec": "H.264",
+                                    "width": 640,
+                                    "height": 360,
+                                    "duration": 27.0,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "1",
+                            "size": 3760348,
+                            "links": [
+                                {
+                                    "href": "http://7de3cb71a19eb488668b27ad8c89a183.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_360p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "video",
+                            "videos": [
+                                {
+                                    "bitrate": 1696000,
+                                    "codec": "H.264",
+                                    "width": 768,
+                                    "height": 432,
+                                    "duration": 27.0,
+                                    "audios": [
+                                        {
+                                            "bitrate": 16,
+                                            "codec": "HE-AAC",
+                                            "sampleRate": 48000,
+                                            "bitDepth": 16,
+                                            "channels": 2
+                                        }
+                                    ]
+                                }
+                            ],
+                            "id": "0",
+                            "size": 5814488,
+                            "links": [
+                                {
+                                    "href": "http://4008e2fb3e61a6de64b93f1828fb060b.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_432p.mp4",
+                                    "mimeType": "video/mp4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "id": "1502375998242",
+                    "language": "en",
+                    "rel": [
+                        "thumbnail"
+                    ],
+                    "renditions": [
+                        {
+                            "type": "image",
+                            "width": 1024,
+                            "height": 576,
+                            "id": "e5ce73ef-79cb-4522-9311-ca573cf64eac",
+                            "size": 88024,
+                            "links": [
+                                {
+                                    "href": "http://0db2d14820885da2ce200194857c7e59.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_l_01.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "width": 128,
+                            "height": 72,
+                            "id": "0333a141-eb00-4ae0-b312-88a35f827d32",
+                            "size": 3138,
+                            "links": [
+                                {
+                                    "href": "http://94bb2f1c2c19ac1f0f7cef909ee506d7.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_s_01.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "width": 640,
+                            "height": 360,
+                            "id": "d9f54c08-3e98-4c00-8dad-a7a7c7aec2ed",
+                            "size": 37680,
+                            "links": [
+                                {
+                                    "href": "http://b39e7a95006cc232d3a5addc2a165c29.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_m_01.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "index",
+                    "id": "1502375998191",
+                    "language": "en",
+                    "renditions": [
+                        {
+                            "type": "index",
+                            "references": [
+                                {
+                                    "order": 1,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502375998105"
+                                        },
+                                        "rendition": {
+                                            "id": "6"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 2,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502375998105"
+                                        },
+                                        "rendition": {
+                                            "id": "2"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 3,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502375998105"
+                                        },
+                                        "rendition": {
+                                            "id": "5"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 4,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502375998105"
+                                        },
+                                        "rendition": {
+                                            "id": "3"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 5,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502375998105"
+                                        },
+                                        "rendition": {
+                                            "id": "1"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 6,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502375998105"
+                                        },
+                                        "rendition": {
+                                            "id": "0"
+                                        }
+                                    }
+                                },
+                                {
+                                    "order": 7,
+                                    "item": {
+                                        "resource": {
+                                            "id": "1502375998105"
+                                        },
+                                        "rendition": {
+                                            "id": "4"
+                                        }
+                                    }
+                                }
+                            ],
+                            "id": "cd7ab806-00090006-7dcb2605",
+                            "size": 535,
+                            "links": [
+                                {
+                                    "href": "http://08d88711c2978c8ecd0941bf5d553800.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa.smil",
+                                    "mimeType": "application/smil+xml"
+                                },
+                                {
+                                    "href": "http://08d88711c2978c8ecd0941bf5d553800.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:cd7ab806-00090006/khandwa/playlist.m3u8",
+                                    "mimeType": "application/x-mpegURL"
+                                },
+                                {
+                                    "href": "http://08d88711c2978c8ecd0941bf5d553800.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:cd7ab806-00090006/khandwa/manifest.f4m",
+                                    "mimeType": "application/hds+xml"
+                                },
+                                {
+                                    "href": "http://08d88711c2978c8ecd0941bf5d553800.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:cd7ab806-00090006/khandwa/manifest.mpd",
+                                    "mimeType": "application/dash+xml"
+                                },
+                                {
+                                    "href": "http://08d88711c2978c8ecd0941bf5d553800.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:cd7ab806-00090006/khandwa/Manifest",
+                                    "mimeType": "application/vnd.ms-sstr+xml"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "id": "1502375998271",
+                    "language": "en",
+                    "rel": [
+                        "thumbnail"
+                    ],
+                    "renditions": [
+                        {
+                            "type": "image",
+                            "width": 128,
+                            "height": 72,
+                            "id": "165e07a2-4592-4560-9495-8730816a66b6",
+                            "size": 2997,
+                            "links": [
+                                {
+                                    "href": "http://cda8736cd16948ec3b9a507f32d527f3.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_s_02.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "width": 640,
+                            "height": 360,
+                            "id": "3b0f7e3c-ce17-4d76-a178-a28372483acd",
+                            "size": 25896,
+                            "links": [
+                                {
+                                    "href": "http://d01969d65a42d51e3d9df727c7eba9fe.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_m_02.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image",
+                            "width": 1024,
+                            "height": 576,
+                            "id": "5d27514d-1b14-4f1e-b631-da4eca5241ef",
+                            "size": 51669,
+                            "links": [
+                                {
+                                    "href": "http://7c87eeeddac1ef671dc8b87ade02d2bf.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/cd7ab806-00090006/khandwa_l_02.jpg",
+                                    "mimeType": "image/jpg"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "",
+                    "id": "58527078-b3c9-49ef-8dfc-adcd8d3dd6bb"
+                },
+                {
+                    "type": "",
+                    "id": "e40f5718-0668-4ac9-8db8-d624b2ae602a"
+                }
+            ]
+        },
+        "metadata": {
+            "title": "khandwa.mp4",
+            "description": "ddddddddddddddd"
+        },
+        "tracks": [
+            {
+                "id": "eaea0f46-dfbb-4922-849d-41dea896372a",
+                "name": "custom",
+                "sequences": [
+                    {
+                        "type": "custom",
+                        "custom": {
+                            "value":"{\n
+Hello
+\n\n
+                        }"},"id":"33da5a03-1904-497e-bc85-da50a5ee4909","start":0.0,"end":27.0}]},{"id":"36d29b36-6395-46f9-b3a9-28e5f014b16a","name":"video","sequences":[{"type":"video","resource":{"id":"58527078-b3c9-49ef-8dfc-adcd8d3dd6bb"},"in":0.0,"out":0.0,"id":"6d1856a9-677a-473f-a219-bba042354e26","start":0.0,"end":22.1}]}],"catalog":{"id":"2c2548e5-1070-4c7c-859a-538eace839f5"}},{"id":"912b0f81-00090006-1f3665ef","created":"2017-08-10T14: 39: 24+00: 00","updated":"2019-01-30T13: 22: 33+00: 00","hits":12,"tags":["sport","fotball"],"asset":{"id":"912b0f81-00090006","created":"2017-08-10T14: 39: 24+00: 00","updated":"2018-05-08T13: 10: 23+00: 00","createdBy":{"id":"sagauser"},"updatedBy":{"id":"UseODgyBc8wmUW5m2Ialga9Kg"},"name":"912b0f81-00090006","resources":[{"type":"video","id":"1502375964613","language":"en","renditions":[{"type":"video","videos":[{"bitrate":1696000,"codec":"H.264","width":768,"height":432,"duration":12.77,"audios":[{"bitrate":16,"codec":"HE-AAC","sampleRate":48000,"bitDepth":16,"channels":2}]}],"id":"0","size":2778701,"links":[{"href":"http: //438a354f58b9f91c3845b090d9b414da.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_432p.mp4","mimeType":"video/mp4"}]},{"type":"video","videos":[{"bitrate":100000,"codec":"H.264","width":128,"height":72,"duration":12.77,"audios":[{"bitrate":16,"codec":"HE-AAC","sampleRate":48000,"bitDepth":16,"channels":2}]}],"id":"1","size":163877,"links":[{"href":"http://aad174f68ea16eacc0fe7f3fa8007023.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_promo.mp4","mimeType":"video/mp4"}]},{"type":"video","videos":[{"bitrate":164000,"codec":"H.264","width":256,"height":144,"duration":12.77,"audios":[{"bitrate":16,"codec":"HE-AAC","sampleRate":48000,"bitDepth":16,"channels":2}]}],"id":"3","size":273278,"links":[{"href":"http://11b631c7b5be4cfaf2929a80237c1835.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_144p.mp4","mimeType":"video/mp4"}]},{"type":"video","videos":[{"bitrate":1096000,"codec":"H.264","width":640,"height":360,"duration":12.77,"audios":[{"bitrate":16,"codec":"HE-AAC","sampleRate":48000,"bitDepth":16,"channels":2}]}],"id":"8","size":1786779,"links":[{"href":"http://9ab29157c06ae5411bb93031722e196b.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_360p.mp4","mimeType":"video/mp4"}]},{"type":"video","videos":[{"bitrate":496000,"codec":"H.264","width":512,"height":288,"duration":12.77,"audios":[{"bitrate":16,"codec":"HE-AAC","sampleRate":48000,"bitDepth":16,"channels":2}]}],"id":"6","size":816474,"links":[{"href":"http://df1ebaf447a50f4d42e80fb6870205cd.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_288p.mp4","mimeType":"video/mp4"}]},{"type":"video","videos":[{"bitrate":3628000,"codec":"H.264","width":1280,"height":720,"duration":12.77,"audios":[{"bitrate":16,"codec":"HE-AAC","sampleRate":48000,"bitDepth":16,"channels":2}]}],"id":"7","size":5919130,"links":[{"href":"http://3b4900f044bb60bce0888a3438c0d75e.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_720p.mp4","mimeType":"video/mp4"}]},{"type":"video","videos":[{"bitrate":260000,"codec":"H.264","width":384,"height":216,"duration":12.77,"audios":[{"bitrate":16,"codec":"HE-AAC","sampleRate":48000,"bitDepth":16,"channels":2}]}],"id":"2","size":430203,"links":[{"href":"http://3a098334f90a588f5442376921a5fd99.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_216p.mp4","mimeType":"video/mp4"}]},{"type":"video","videos":[{"bitrate":2496000,"codec":"H.264","width":1024,"height":576,"duration":12.77,"audios":[{"bitrate":16,"codec":"HE-AAC","sampleRate":48000,"bitDepth":16,"channels":2}]}],"id":"4","size":4080575,"links":[{"href":"http://f04ae30798eeca1cdc3e4bbce99d1fa9.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_576p.mp4","mimeType":"video/mp4"}]},{"type":"video","videos":[{"bitrate":70000,"codec":"H.264","width":160,"height":90,"duration":12.77,"audios":[{"bitrate":16,"codec":"HE-AAC","sampleRate":48000,"bitDepth":16,"channels":2}]}],"id":"5","size":133928,"links":[{"href":"http://9f37a2f47ad78332d0003f82ff035e7e.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_64p.mp4","mimeType":"video/mp4"}]}]},{"type":"image","id":"1502375964763","language":"en","renditions":[{"type":"image","width":1280,"height":720,"id":"6f637c85-08f9-42a3-986a-4c641849039e","size":120133,"links":[{"href":"http://c8c134bf85514baca30546c7a3e814f7.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_l_01.jpg","mimeType":"image/jpg"}]},{"type":"image","width":640,"height":360,"id":"6dae9082-4599-485f-a4bd-8beb1e73e2d0","size":47276,"links":[{"href":"http://2dc3ea2882454597201338481e7fd518.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_m_01.jpg","mimeType":"image/jpg"}]},{"type":"image","width":128,"height":72,"id":"e714d5ec-8e87-4f8e-82e1-157b039dd2bb","size":4360,"links":[{"href":"http://10fc88594af9fe363c0539c1cb07be9e.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_s_01.jpg","mimeType":"image/jpg"}]}]},{"type":"index","id":"1502375964710","language":"en","renditions":[{"type":"index","references":[{"order":1,"item":{"resource":{"id":"1502375964613"},"rendition":{"id":"6"}}},{"order":2,"item":{"resource":{"id":"1502375964613"},"rendition":{"id":"5"}}},{"order":3,"item":{"resource":{"id":"1502375964613"},"rendition":{"id":"3"}}},{"order":4,"item":{"resource":{"id":"1502375964613"},"rendition":{"id":"2"}}},{"order":5,"item":{"resource":{"id":"1502375964613"},"rendition":{"id":"8"}}},{"order":6,"item":{"resource":{"id":"1502375964613"},"rendition":{"id":"0"}}},{"order":7,"item":{"resource":{"id":"1502375964613"},"rendition":{"id":"4"}}},{"order":8,"item":{"resource":{"id":"1502375964613"},"rendition":{"id":"7"}}}],"id":"912b0f81-00090006-8ba5afb6","size":607,"links":[{"href":"http://c27dfbe89b3cd25a18ede777e90f356a.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip.smil","mimeType":"application/smil+xml"},{"href":"http://c27dfbe89b3cd25a18ede777e90f356a.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:912b0f81-00090006/testclip/playlist.m3u8","mimeType":"application/x-mpegURL"},{"href":"http://c27dfbe89b3cd25a18ede777e90f356a.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:912b0f81-00090006/testclip/manifest.f4m","mimeType":"application/hds+xml"},{"href":"http://c27dfbe89b3cd25a18ede777e90f356a.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:912b0f81-00090006/testclip/manifest.mpd","mimeType":"application/dash+xml"},{"href":"http://c27dfbe89b3cd25a18ede777e90f356a.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache1/_definst_/smil:912b0f81-00090006/testclip/Manifest","mimeType":"application/vnd.ms-sstr+xml"}]}]},{"type":"image","id":"1502375964819","language":"en","rel":["thumbnail"],"renditions":[{"type":"image","width":640,"height":360,"id":"33ca46e5-aa1c-46f6-8576-af1aef34f75b","size":54047,"links":[{"href":"http://843f64b4ca78879358d64b3b3c99a965.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_m_02.jpg","mimeType":"image/jpg"}]},{"type":"image","width":128,"height":72,"id":"f7159a9e-7442-48ab-abb4-f2c47c80aef6","size":4642,"links":[{"href":"http://65a9e0c178d501fb0037d64987b108bd.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_s_02.jpg","mimeType":"image/jpg"}]},{"type":"image","width":1280,"height":720,"id":"e5c9370c-24b2-4d09-ab29-e1bcbaeb012a","size":135917,"links":[{"href":"http://8b885b20629fdd773bf8f737c0df5eb9.httpcache0.90006-httpcache0.dna.qbrick.com/90006-httpcache0/912b0f81-00090006/testclip_l_02.jpg","mimeType":"image/jpg"}]}]},{"type":"","id":"823c90f3-d7c8-4ba4-8136-269285e84b79"}]},"metadata":{"title":"testclip.mp4","description":""},"tracks":[{"id":"f3c55809-5b9f-4ba1-8734-41d902d4f240","name":"video","sequences":[{"type":"video","resource":{"id":"823c90f3-d7c8-4ba4-8136-269285e84b79"},"in":0.0,"out":0.0,"id":"59a54e60-41f5-4487-b8cd-7ef88d9a2f75","start":0.0,"end":12.769999999999982}]},{"id":"0e340eec-3879-4d5c-be6d-b8f30c477de4","name":"chapter"},{"id":"db2fa145-5de5-4978-940d-a7a3978ca510","name":"slide","sequences":[{"type":"slide","resource":{"id":"1502375964819"},"id":"8e5551a0-b6c6-4076-a446-77143809dfac","start":1.199,"end":4.9}]}],"thumbnails":[{"id":"1502375964819"}]},{"id":"21507b6d-00090006-411b3240","created":"2017-08-10T14:33:39+00:00","updated":"2017-08-10T14:35:45+00:00","metadata":{"title":"khandwa.mp4"},"catalog":{"id":"2c2548e5-1070-4c7c-859a-538eace839f5"}}]

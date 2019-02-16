@@ -1,0 +1,31 @@
+video {
+    width: 200px;
+    height: 140px;
+    border-radius: 20px;
+    object-fit: unset;
+}
+
+.media label {
+    display: block !important;
+    max-width: 200px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: auto;
+    color: #8d8d85;
+}
+
+.videoControls {
+    display: inline-block !important;
+    max-width: 300px;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: black;
+}
+
+.media {
+    display: inline-block;
+    padding: 30px;
+}

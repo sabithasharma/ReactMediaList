@@ -1,0 +1,6 @@
+#container {
+    background-color: #eaecf2;
+    padding: 20px;
+    overflow: auto;
+    max-height: 90vh;
+}
