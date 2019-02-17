@@ -26,3 +26,8 @@ Final View should be visible similar to one in the assets folder named as "final
 
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+## Improvements
+Pagination
+SASS Styles
+Unit testing

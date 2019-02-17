@@ -78,7 +78,7 @@ class LandingScreen extends React.Component {
                             for (var link in links) {
                                 let srcMedia = links[link].href;
                                 let caption = media.metadata.title || "No caption found";
-                                mediaArray.push(<MediaPlayer key = {srcMedia} href={srcMedia} caption={caption} />)
+                                mediaArray.push(<MediaPlayer key={srcMedia} href={srcMedia} caption={caption} />)
                             }
                         }
                     }

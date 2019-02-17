@@ -20,7 +20,7 @@ class MediaPlayer extends React.Component {
   render() {
     const { isLoaded } = this.state;
     if (!isLoaded) {
-      return <div className = "mediaNotFound"></div>;
+      return <div className="mediaNotFound"></div>;
     } else if (isLoaded) {
       return <div className="media">
         <div className="videoControls">
