@@ -13,7 +13,7 @@ class LandingScreen extends React.Component {
         this.state = {
             error: null,
             isLoaded: false,
-            items: []
+            medias: []
         };
     }
     /**
@@ -57,8 +57,6 @@ class LandingScreen extends React.Component {
                 <div id="container">
                     {this.listMedia(medias)}
                 </div>
-
-
             );
         }
     }
@@ -71,15 +69,16 @@ class LandingScreen extends React.Component {
         return medias.map(media => {
             var mediaArray = [];
             if (media.asset) {
-                for (var resource in media.asset.resources) {
-                    var renditions = media.asset.resources[resource].renditions;
-                    if (renditions && renditions.length > 0) {
-                        for (var rendition in renditions) {
-                            var links = media.asset.resources[resource].renditions[rendition].links;
+                for (let resource in media.asset.resources) {
+                    let resources = media.asset.resources;
+                    let renditions = resources[resource].renditions;
+                    if (renditions && renditions.length) {
+                        for (let rendition in renditions) {
+                            let links = renditions[rendition].links;
                             for (var link in links) {
-                                let srcMedia = media.asset.resources[resource].renditions[rendition].links[link].href;
+                                let srcMedia = links[link].href;
                                 let caption = media.metadata.title || "No caption found";
-                                mediaArray.push(<MediaPlayer href={srcMedia} caption={caption} />)
+                                mediaArray.push(<MediaPlayer key = {srcMedia} href={srcMedia} caption={caption} />)
                             }
                         }
                     }

@@ -20,7 +20,7 @@ class MediaPlayer extends React.Component {
   render() {
     const { isLoaded } = this.state;
     if (!isLoaded) {
-      return <div></div>;
+      return <div className = "mediaNotFound"></div>;
     } else if (isLoaded) {
       return <div className="media">
         <div className="videoControls">
@@ -33,19 +33,19 @@ class MediaPlayer extends React.Component {
     }
   }
 
+  /**
+   * @name componentDidMount
+   * @description loads the media once the url is reachable
+   */
+
   componentDidMount() {
     fetch(this.props.href)
       .then(
-        (result) => {
-          console.log(result);
+        () => {
           this.setState({
-            isLoaded: true,
-            medias: result
+            isLoaded: true
           });
         },
-        // Note: it's important to handle errors here
-        // instead of a catch() block so that we don't swallow
-        // exceptions from actual bugs in components.
         (error) => {
           this.setState({
             isLoaded: false,

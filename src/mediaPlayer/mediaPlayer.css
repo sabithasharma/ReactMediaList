@@ -14,6 +14,7 @@ video {
     text-overflow: ellipsis;
     font-family: auto;
     color: #8d8d85;
+    padding-left: 8px;
 }
 
 .videoControls {
@@ -28,4 +29,8 @@ video {
 .media {
     display: inline-block;
     padding: 30px;
+}
+
+.mediaNotFound {
+    display: none;
 }
